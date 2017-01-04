@@ -21,9 +21,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmWfxnAiQ5TnnCgiX9ikVUKFNHRgGhbgKdx5DoKPELD7P4",
+      "hash": "QmdrGWASVPxA81CjLRBxPzFug8HNNm9apfuq4V2djKFfXD",
       "name": "go-libp2p-swarm",
-      "version": "1.6.1"
+      "version": "1.6.2"
     }
   ],
   "gxVersion": "0.10.0",
