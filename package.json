@@ -9,21 +9,21 @@
   "gxDependencies": [
     {
       "author": "whyrusleeping",
-      "hash": "QmVtMT3fD7DzQNW7hdm6Xe6KPstzcggrhNpeVZ4422UpKK",
+      "hash": "QmVHSBsn8LEeay8m5ERebgUVuhzw838PsyTttCmP6GMJkg",
       "name": "go-libp2p-net",
-      "version": "1.6.1"
+      "version": "1.6.9"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmSwXLW21S3TsFHsNELc4a4Y7Kp8wToqnBBXWYvggBVLQY",
+      "hash": "QmdVnYKahrvndXhyreWhY8YT3a5chJoWv8b4wVyH9JG2KB",
       "name": "go-testutil",
-      "version": "1.1.1"
+      "version": "1.1.7"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmTU8NWsDYNShMA3hjPfEZTg3pD7YgX62sFmZdEgbjtWq2",
+      "hash": "Qmeo7oJxR65PLPx68KPFi8rjzcEmmWN2dL66fPuq9nVMv8",
       "name": "go-libp2p-swarm",
-      "version": "1.6.12"
+      "version": "1.6.14"
     }
   ],
   "gxVersion": "0.10.0",
@@ -31,6 +31,6 @@
   "license": "",
   "name": "go-libp2p-netutil",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "0.2.13"
+  "version": "0.2.14"
 }
 
