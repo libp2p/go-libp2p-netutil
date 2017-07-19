@@ -1,19 +1,21 @@
-sudo: false
-
+os:
+  - linux
+  - osx
 
 language: go
+sudo: false
+
 go:
   - 1.8
-  
-install:
+
+before_install:
   - go get github.com/whyrusleeping/gx
   - go get github.com/whyrusleeping/gx-go
-  - gx install --global
+
+install:
+  - gx --verbose install --global
+  - gx-go rewrite
 
 cache:
-  directories:
-    - $GOPATH/src/gx
-
-notifications:
-email: false
-  
+    directories:
+        - $GOPATH/src/gx
