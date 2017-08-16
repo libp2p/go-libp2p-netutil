@@ -15,15 +15,15 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmYazuWNCrC7LXeRt3utQuRsCDufpNM176rD1efuvF2pWJ",
+      "hash": "QmZJD56ZWLViJAVkvLc7xbbDerHzUMLr2X4fLRYfbxZWDN",
       "name": "go-testutil",
-      "version": "1.1.9"
+      "version": "1.1.10"
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmW8QNRUf1nqeRxZdhGg5DVcxHMwxuuNt7AWfmDi2a8JE2",
+      "hash": "QmfGXKgqQmaPHDHPSG3Y9vCVtFZtFeRZJW7N1anXB5biRu",
       "name": "go-libp2p-swarm",
-      "version": "1.7.2"
+      "version": "1.7.3"
     },
     {
       "author": "whyrusleeping",
@@ -60,6 +60,6 @@
   "license": "",
   "name": "go-libp2p-netutil",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "0.2.20"
+  "version": "0.2.21"
 }
 
