@@ -21,9 +21,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmfGXKgqQmaPHDHPSG3Y9vCVtFZtFeRZJW7N1anXB5biRu",
+      "hash": "QmVJefKHXEx28RFpmj5GeRg43AqeBH3npPwvgJ875fBPm7",
       "name": "go-libp2p-swarm",
-      "version": "1.7.3"
+      "version": "1.7.4"
     },
     {
       "author": "whyrusleeping",
@@ -60,6 +60,6 @@
   "license": "",
   "name": "go-libp2p-netutil",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "0.2.21"
+  "version": "0.2.22"
 }
 
