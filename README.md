@@ -9,3 +9,7 @@ go-libp2p-netutil
 [![Discourse posts](https://img.shields.io/discourse/https/discuss.libp2p.io/posts.svg)](https://discuss.libp2p.io)
 
 > Utility methods for creating public and private keys for use in tests.
+
+---
+
+The last gx published version of this module was: 0.4.23: QmQzyPDx8rLqJ5evnHAo4Mpbsb64RKGZzLABzsbXQM6a2j
