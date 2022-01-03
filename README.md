@@ -1,3 +1,8 @@
+# DEPRECATION NOTICE
+
+This package has moved into go-libp2p-testing as a sub-package,
+`github.com/libp2p/go-libp2p-testing/netutil`.
+
 go-libp2p-netutil
 ==================
 
